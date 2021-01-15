@@ -18,7 +18,7 @@ Demo : https://waveboard.herokuapp.com/
     
     #clone the project
     ```
-    git clone 
+    git clone https://github.com/naelob/waveboard-IO.git
     ```
     #navigate inside the folder project
     ```
